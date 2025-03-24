@@ -17,7 +17,7 @@ public class Main {
         System.out.println("Beolvasott fájl");
         szak.szakBeolvasas();
         System.out.println("Vizsga tárgyak");
-        tantargy.setCsak_vizsga();
+       // tantargy.setCsak_vizsga();
 
 //        szak.getTargyakNevSzerint();
 //        szak.getTargyakNevSzerint();
@@ -47,7 +47,7 @@ public class Main {
     }
 
     private void osszesKredit() {
-        
+
     }
 
     private void vizsgaTargy() {
